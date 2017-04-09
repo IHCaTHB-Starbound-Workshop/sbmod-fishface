@@ -1,8 +1,5 @@
 # sbmod-fishface
 # changelog
 
-### vur
-+ b
-
-### v0.1 yyyy-mm-dd
-+ a
+### v0.1 2017-04-09
+- removes third eye

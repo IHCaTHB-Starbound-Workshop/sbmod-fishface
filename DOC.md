@@ -1,8 +1,10 @@
 # sbmod-fishface
 # documentation
-last updated yyyy-mm-dd for version 0.1
+last updated 2017-04-09 for version 0.1
 
 ## backend
-### item ids
-`item1`
-`item2`
+### asset overwrites
+Any hylotl face.
+
+### known issues
+Intro mission, just before the awards ceremony, have no been able to edit hylotls in crowd.
