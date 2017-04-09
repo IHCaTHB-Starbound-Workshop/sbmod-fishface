@@ -7,4 +7,4 @@ last updated 2017-04-09 for version 0.1
 Any hylotl face.
 
 ### known issues
-Intro mission, just before the awards ceremony, have no been able to edit hylotls in crowd.
+Intro mission, just before the awards ceremony, have not been able to edit hylotls in crowd.
