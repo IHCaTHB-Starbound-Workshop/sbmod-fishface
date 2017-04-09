@@ -9,7 +9,7 @@ Intro mission, just before the awards ceremony, have not been able to edit hylot
 
 For more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Fish Face",
-  "includes" : [],
+  "includes" : ["Starface","Detailed Species "],
   "name" : "FISHFACE.IHC",
   "requires" : [],
   "version" : "0.1"
