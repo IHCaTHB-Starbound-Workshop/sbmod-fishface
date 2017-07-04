@@ -1,0 +1,11 @@
+[
+  {
+    "op" : "test",
+    "path" : "/converse/hylotl/hylotl/0",
+    "value" : "It is always calming to see a friendly, three-eyed face. Make yourself at home."
+  },
+  {
+    "op": "remove",
+    "path": "/converse/hylotl/hylotl/0"
+  }
+]

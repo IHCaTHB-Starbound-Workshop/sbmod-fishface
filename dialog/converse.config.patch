@@ -1,0 +1,41 @@
+[[
+  {
+    "op" : "test",
+    "path" : "/converse/apex/hylotl/17",
+    "value" : "Your third eye is fascinating to me. I wonder, could we Apex engineer a third eye for our kind?"
+  },
+  {
+    "op": "remove",
+    "path": "/converse/apex/hylotl/17"
+  }
+],[
+  {
+    "op" : "test",
+    "path": "/converse/floran/hylotl/17",
+    "value" : "Three eyes!? Floran could hunt ssso much more prey with three eyes!"
+  },
+  {
+    "op": "remove",
+    "path": "/converse/floran/hylotl/17"
+  }
+],[
+  {
+    "op" : "test",
+    "path": "/converse/novakid/hylotl/1",
+    "value" : "What does your big ol' third eye let you see? Is it a secret?"
+  },
+  {
+    "op": "remove",
+    "path": "/converse/novakid/hylotl/1"
+  }
+],[
+  {
+    "op" : "test",
+    "path": "/converse/novakid/hylotl/0",
+    "value" : "Three eyes, huh? That's uh, mighty fine."
+  },
+  {
+    "op": "remove",
+    "path": "/converse/novakid/hylotl/0"
+  }
+]]
